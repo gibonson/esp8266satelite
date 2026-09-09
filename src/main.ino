@@ -2,7 +2,7 @@
 #include <ArduinoJson.h> // JSON library for Arduino, used to create and parse JSON objects
 
 // app version
-#define APP_VERSION "0.0.4"
+#define APP_VERSION "0.0.5"
 
 // Project files list
 String moduleList = "DS18B20,DHT22,OLED,BuiltinLed,RADIO_433"; // List of modules available in the system
